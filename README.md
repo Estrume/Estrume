@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gabriel Almeida Costa, tenho 21 anos. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade das Americas (FAM). movimentado por tecnologia.
+Me chamo Gabriel Almeida Costa, tenho 21 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade das Americas (FAM). movimentado por tecnologia.
 
  
  <p align="left">
